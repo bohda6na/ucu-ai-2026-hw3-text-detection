@@ -1,0 +1,11 @@
+# Environment: Kaggle notebooks (Python 3, GPU T4). Versions = Kaggle image of Nov 2026.
+numpy
+pandas
+scipy
+scikit-learn
+lightgbm
+shap
+matplotlib
+torch
+transformers
+sentencepiece
