@@ -1,0 +1,1 @@
+# ucu-ai-2026-hw3-text-detection
