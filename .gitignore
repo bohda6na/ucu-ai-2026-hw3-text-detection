@@ -1,6 +1,8 @@
 *.csv
 *.npy
 *.zip
+!submissions/*.csv
+!probs/*.npy
 .ipynb_checkpoints/
 __pycache__/
 .env
